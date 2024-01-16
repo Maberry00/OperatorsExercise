@@ -9,24 +9,23 @@ namespace OperatorExercise
             int sum = 17 + 4;
 
             Console.WriteLine(sum);
-            {
-
+            
                 int c = 17;
                 int d = 4;
 
                 Console.WriteLine(c - d);
-            }
-            {
+            
+            
                 int divided = 17 / 4;
 
                 Console.WriteLine(divided);
-            }
-            {
+            
+            
                 int a = 17;
                 int b = 4;
 
                 Console.WriteLine(a * b);
-            }
+            
             int remainder = 17 % 4;
             Console.WriteLine(remainder);
             {
